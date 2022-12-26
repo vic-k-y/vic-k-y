@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vignesh 
+- 👀 I’m a Data science Enthusiast 
+- 🌱 I’m currently learning Data Analysis/ML
+- 📫 How to reach me, well simple follow this link-> linkedin.com/in/vignesh-m20
