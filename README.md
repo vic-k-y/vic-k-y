@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Vignesh 
 - 👀 I’m a Tech Enthusiast 
-- 🌱 I’m currently learning Data Analysis/ML
 - 📫 How to reach me, well simple follow this link and connect with me-> https://www.linkedin.com/in/vignesh-m20
